@@ -7,6 +7,8 @@ Note: Only search for within a website ONLY
 
 Note: a list of website is kept in database
 
+Simple algo: to see whether this web page talk about the keyword is by searching the TAG. Implemented this first.
+
 Command : java -k "KEYWORD" -m NUMBER -mt NUMBER
 
 -k :  To enter a keyword to a search box [required]
